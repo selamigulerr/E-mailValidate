@@ -37,7 +37,7 @@ function test_input($data) {
   }
 
 // Include library file
-require_once 'VerifyEmail.class.php'; 
+require_once 'verifyEmail.php'; 
 
 // Initialize library class
 $mail = new VerifyEmail();
